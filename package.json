@@ -1,0 +1,14 @@
+{
+  "name": "gramah",
+  "version": "1.0.0",
+  "description": "A simple app for the rat girl.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paige Cote",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
